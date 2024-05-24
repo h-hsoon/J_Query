@@ -1,0 +1,32 @@
+div{
+    width: 50%;
+}
+
+img{
+    width: 100%;
+    height: 100px;
+}
+
+.div1 #tuHade{
+    display: block;
+}
+
+.div1 #gaHade{
+    display: none;
+}
+
+.div2 #tuFas{
+    display: block;
+}
+
+.div2 #gaFas{
+    display: none;
+}
+
+.div3 #tuBody{
+    display: block;
+}
+
+.div3 #gaBody{
+    display: none;
+}
